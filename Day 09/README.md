@@ -1,4 +1,4 @@
-**Day 9 – Recursion in C
+##Day 9 – Recursion in C
 
 --Recursion is a programming technique where a function calls itself to solve a problem by breaking it into smaller subproblems.
 
