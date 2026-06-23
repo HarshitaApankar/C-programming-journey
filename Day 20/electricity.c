@@ -19,4 +19,5 @@ int main()
     printf("Total Electricity Bill = Rs. %.2f\n", bill);
 
     return 0;
+    
 }
